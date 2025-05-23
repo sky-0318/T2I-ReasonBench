@@ -40,4 +40,4 @@ After obtaining the official Qwen2.5-vl code, place the following evaluation scr
 - `eval_entity.py`
 - `eval_scientific.py`
 
-Replace the image folder path and prompt folder path in the script. The evaluation code will generate a csv file with scores for each generated image, average to get the accuracy score and aesthetic score for the model.
+Replace the image folder path, prompt folder path, and the output directory of the csv file in the script. The evaluation code will generate a csv file with scores for each generated image, average to get the accuracy score and aesthetic score for the model.
