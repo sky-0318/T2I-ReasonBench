@@ -22,7 +22,7 @@ MLLM-based evaluation metrics are based on the official repository of Qwen2.5-vl
 Generate images of your model using the T2I-ReasonBench prompts provided in the `prompts` directory. Organize them in the following structure (using the *idiom interpretation* category as an example):
 
 ```
-../video/idiom_interpretation
+../image/idiom_interpretation
 ├── 0001.png
 ├── 0002.png
 ├── 0003.png
